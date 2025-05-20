@@ -41,8 +41,8 @@
         {
           "type": "git",
           "url": "https://github.com/PixelDoted/cosmic-ext-color-picker.git",
-          "tag": "1.1.0",
-          "commit": "d209ae2f83d7e5cd94a356b4225b27da0b051caf"
+          "tag": "1.1.0-fix",
+          "commit": "7819a4ad34b16f2b9de40734f35d267440ef2a45"
         },
         "cargo-sources.json"
       ]
